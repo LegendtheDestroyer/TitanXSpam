@@ -1,6 +1,6 @@
 {
-    "name": "Titan Spam.",
-    "logo": "https://telegra.ph/file/c4c411b7968c06b606395.jpg",
+    "name": "DestroyerSpam.",
+    "logo": "https://telegra.ph/file/ce3ead5d1c23f1c576d79.jpg",
     "keywords": [
         "telegram",
         "telethon",
@@ -90,7 +90,7 @@
     {
       "plan": "heroku-postgresql",
       "options": {
-        "version": "12"
+        "version": "15"
       }
     }
   ],
