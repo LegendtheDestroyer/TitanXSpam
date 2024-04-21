@@ -23,7 +23,7 @@ async def ping(e):
         titan = await e.reply(f"☞ @TitanNetwrk", parse_mode=None, link_preview=None)
         end = datetime.now()
         mp = (end - start).microseconds / 1000
-        await titan.edit(f"[⚚‎ ˹𝐓𝐈𝐓𝚲𝐍 𔘓 𝐍𝚵𝐓𝐖Ⓞ𝐑𝐊˼ ⚚](https://t.me/TitanNetwrk)")
+        await titan.edit(f"[⚚‎ 𓆰𝅃꯭᳚ ⃪♔͢༎꯭🔥꯭𝐃꯭ᴇ꯭꯭sᴛ꯭ʀ꯭֟፝ᴏʏ꯭ᴇ꯭ʀ꯭𝆺𝅥»꯭💸꯭꯭⋆꯭᪳᪳ 𔘓 𝐍𝚵𝐓𝐖Ⓞ𝐑𝐊˼ ⚚](https://t.me/TitanNetwrk)")
 
 
 @MK1.on(events.NewMessage(incoming=True, pattern=r"\%sreboot(?: |$)(.*)" % hl))
