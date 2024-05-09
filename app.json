@@ -8,7 +8,7 @@
         "Titan",
         "SpamBots"
     ],
-    "repository": "https://github.com/LegendtheDestroyer/X-SPAM",
+    "repository": "https://github.com/LegendtheDestroyer/TitanXSpam",
     "env": {
      "CMD_HNDLR": {
             "description": "Command Handler.",
